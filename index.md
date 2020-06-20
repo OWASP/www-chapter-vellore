@@ -40,6 +40,5 @@ Would you like to speak on the upcoming OWASP Coimbatore Webinar? [Contact Us](m
 ## Local News
 -The meets are free for anyone to attend. There are absolutely no fees. Just come with an open mind and a willingness to share and learn.
 
-Meeting Location  OWASP meetup Date: May 29 2020.  Time: 11 AM  Location: Online Webinar 
-http://tiny.cc/owaspvellore2905
+Stay Tuned for new updates..
 
