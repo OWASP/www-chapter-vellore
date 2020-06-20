@@ -11,6 +11,20 @@ tags: OWASP Vellore Chapter India
 ## Past Events
 
 ```Stay in touch with us to get updates about upcoming meetings!!!```
+<hr>
+
+## OWASP Vellore Chapter - webinar - May 29, 2020
+
+**Agenda**
+
+` 09:00a.m – 11.00a.m => `<B>`Art of Exploit Development `</B><br/>
+` 11:00a.m – 01.00p.m => `<B>`ROP Attacks`</B><br/>
+
+
+**Venue**
+
+VIT, Vellore Campus, Tiruvalam Rd, Katpadi, Vellore, Tamil Nadu 632014
+
 
 <hr>
 
