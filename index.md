@@ -43,8 +43,8 @@ Would you like to speak on the upcoming OWASP Coimbatore Webinar? [Contact Us](m
 
 ## Local News
 
-- Cyber Forensics Webinar SEP 21 2020.
-- Zoom meeting link - https://meeting.zoho.com/meeting/join?key=74726792508
+- Cyber Forensics Webinar SEP 1 2020.
+- Zoho meeting link - https://meeting.zoho.com/meeting/join?key=74726792508
 
 -The meets are free for anyone to attend. There are absolutely no fees. Just come with an open mind and a willingness to share and learn.
 
