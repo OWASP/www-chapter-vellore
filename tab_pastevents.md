@@ -12,6 +12,20 @@ tags: OWASP Vellore Chapter India
 
 ```Stay in touch with us to get updates about upcoming meetings!!!```
 <hr>
+## OWASP Vellore Chapter - webinar - SEP 1, 2020
+
+**Agenda**
+
+` 11:00 A.M – 12.00 P.M => `<B>` introduction to Digital Forensics  `</B><br/>
+  12:00 P.M – 1.00 P.M => `<B>` Perspective of Laws in Digital Forensics  `</B><br/>
+
+**Venue**
+
+Zoho meet - https://meeting.zoho.com/meeting/join?key=1069021307
+
+
+<hr>
+
 ## OWASP Vellore Chapter - webinar - Aug 23, 2020
 
 **Agenda**
