@@ -25,7 +25,7 @@ Everyone is welcome and encouraged to participate in our [Projects](https://owas
 
 ## Call for Speakers
 
-Would you like to speak on the upcoming OWASP Coimbatore Webinar? [Contact Us](mailto:vijay.s@owasp.org)
+Would you like to speak on the upcoming OWASP Vellore Webinar? [Contact Us](mailto:vijay.s@owasp.org)
 
 **Email Format :**
 
@@ -43,8 +43,8 @@ Would you like to speak on the upcoming OWASP Coimbatore Webinar? [Contact Us](m
 
 ## Local News
 
-- Cyber Forensics Webinar SEP 1 2020.
-- Zoho meeting link - https://meeting.zoho.com/meeting/join?key=74726792508
+- Linux Forensics OCT 18 2020.
+- Zoho meeting link - https://us04web.zoom.us/j/75955738906?pwd=N0U3U0RiREVJeEZnV0tielpoUE1wdz09
 
 -The meets are free for anyone to attend. There are absolutely no fees. Just come with an open mind and a willingness to share and learn.
 
