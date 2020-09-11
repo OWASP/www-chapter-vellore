@@ -14,7 +14,7 @@ postal-code:
 
 <img src="assets/images/unnamed.png"/>
 
-Welcome to the Vellore chapter homepage. The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. The chapter leaders are Vijay S, K R Shankar. The chapter presents opportunities to the software community in contributing to secure application development.
+Welcome to the Vellore chapter homepage. The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. The chapter leaders are Vijay S & K.R.Shankar Narayanan. The chapter presents opportunities to the software community in contributing to secure application development.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
