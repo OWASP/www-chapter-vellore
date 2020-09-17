@@ -1,6 +1,5 @@
-<!--### Chapter Information
-* Chapter Region
+### Chapter Information
+
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Meetup](https://www.meetup.com/OWASP-Vellore-Meetup-Group/)
