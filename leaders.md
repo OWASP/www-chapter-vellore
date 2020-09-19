@@ -6,5 +6,5 @@
 
 ### Board Members
 
-* [Varsha (Conference Coordinator)](mailto:owasp.vellore@gmail.Com)
-* [Surya (Academic Coordinator)](mailto:owasp.vellore@gmail.Com)
+* [Shree Varsha .M.S (Conference Coordinator)](mailto:sshree.varsha@gmail.com)
+* [Surya (Academic Coordinator)](mailto:suryaseenu313@gmail.com)
