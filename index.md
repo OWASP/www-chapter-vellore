@@ -43,8 +43,8 @@ Would you like to speak on the upcoming OWASP Vellore Webinar? [Contact Us](mail
 
 ## Local News
 
-- Date will be updated soon
-- 
+- Linux Forensics OCT 18 2020.
+-Zoho meeting link - https://us04web.zoom.us/j/75955738906?pwd=N0U3U0RiREVJeEZnV0tielpoUE1wdz09
 
 -The meets are free for anyone to attend. There are absolutely no fees. Just come with an open mind and a willingness to share and learn.
 
