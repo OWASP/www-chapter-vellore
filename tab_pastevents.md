@@ -12,6 +12,17 @@ tags: OWASP Vellore Chapter India
 
 ```Stay in touch with us to get updates about upcoming meetings!!!```
 <hr>
+## OWASP Vellore Chapter - webinar - OCT 18, 2020
+
+**Agenda**
+
+ 11:00 A.M – 12.00 P.M =>   Linux Forensics 
+
+
+**Venue**
+
+Zoho meet 
+
 ## OWASP Vellore Chapter - webinar - SEP 1, 2020
 
 **Agenda**
