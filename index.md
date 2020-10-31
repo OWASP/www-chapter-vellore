@@ -43,8 +43,8 @@ Would you like to speak on the upcoming OWASP Vellore Webinar? [Contact Us](mail
 
 ## Local News
 
-- Linux Forensics OCT 18 2020.
--Zoho meeting link - END
+- CFP open till Nov 10 
+- Mail to vijay.s@owasp.org
 
 -The meets are free for anyone to attend. There are absolutely no fees. Just come with an open mind and a willingness to share and learn.
 
