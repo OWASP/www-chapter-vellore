@@ -2,4 +2,4 @@
 
 
 ### Social Links
-* [Meetup](https://www.meetup.com/OWASP-Vellore-Meetup-Group/)
+* [Meetup](https://www.meetup.com/OWASP-Vellore-Chapter/)
