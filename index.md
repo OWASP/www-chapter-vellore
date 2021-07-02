@@ -52,7 +52,7 @@ Would you like to speak on the upcoming OWASP Vellore Webinar? [Contact Us](mail
 
 - Our meetings are open to the public anyone can attend.
 
-- Mail to vijay.s@owasp.org
+-support : vijay.s@owasp.org
 
 -The meets are free for anyone to attend. There are absolutely no fees. Just come with an open mind and a willingness to share and learn.
 
