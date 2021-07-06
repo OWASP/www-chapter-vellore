@@ -42,8 +42,8 @@ Would you like to speak on the upcoming OWASP Vellore Webinar? [Contact Us](mail
     - Presentation time required
 
 ## Local News
-https://docs.google.com/forms/d/e/1FAIpQLSc0iF1ZbQKM1nCHJ40Z5JyOZU92P6iCt4OQh4_5iyFiyv25XQ/viewform
-### Upcoming Meetings
+
+### Upcoming Meeting
 
 - TITLE         : Enumerating Assets for Bugbounty Hunting
 - DATE          : Friday, 09 Jul 2021
