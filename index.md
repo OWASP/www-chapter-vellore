@@ -42,13 +42,14 @@ Would you like to speak on the upcoming OWASP Vellore Webinar? [Contact Us](mail
     - Presentation time required
 
 ## Local News
-
+https://docs.google.com/forms/d/e/1FAIpQLSc0iF1ZbQKM1nCHJ40Z5JyOZU92P6iCt4OQh4_5iyFiyv25XQ/viewform
 ### Upcoming Meetings
 
-- TITLE    : Enumerating Assets for Bugbounty Hunting
-- DATE     : Friday, 09 Jul 2021
-- TIME     : 11.00 AM (GMT)
-- Platform : Zoho Meet ( https://meeting.zoho.com/meeting/join?key=1056899579&t=74933575f7cea033afb3a2bf6d79c175175c5b5adec09d08ad35da2d8976eff6 )
+- TITLE         : Enumerating Assets for Bugbounty Hunting
+- DATE          : Friday, 09 Jul 2021
+- TIME          : 11.00 AM (GMT)
+- Registration  : https://forms.gle/WX9sUCQPsCW9a6aE9
+- Platform      : Zoho Meet ( https://meeting.zoho.com/meeting/join?key=1056899579&t=74933575f7cea033afb3a2bf6d79c175175c5b5adec09d08ad35da2d8976eff6 )
 
 - Our meetings are open to the public anyone can attend.
 
