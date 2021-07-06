@@ -51,9 +51,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSc0iF1ZbQKM1nCHJ40Z5JyOZU92P6iCt4OQh4_5
 - Registration  : https://forms.gle/WX9sUCQPsCW9a6aE9
 - Platform      : Zoho Meet ( https://meeting.zoho.com/meeting/join?key=1056899579&t=74933575f7cea033afb3a2bf6d79c175175c5b5adec09d08ad35da2d8976eff6 )
 
-- Our meetings are open to the public anyone can attend.
 
--support : vijay.s@owasp.org
+-[Support](mailto:vijay.s@owasp.org)
 
 -The meets are free for anyone to attend. There are absolutely no fees. Just come with an open mind and a willingness to share and learn.
 
