@@ -2,7 +2,8 @@
 
 
 ### Social Links
-* [Instagram](https://www.instagram.com/owasp_vellore/)
+* [Instagram](https://www.instagram.com/owasp_vellore/)  
+* [Facebook](https://www.facebook.com/owaspvellore)  
 * [Meetup](https://www.meetup.com/OWASP-Vellore-Chapter/)
 
 
