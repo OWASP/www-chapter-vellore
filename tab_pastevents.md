@@ -23,6 +23,7 @@ tags: OWASP Vellore Chapter India
 **Venue & Resource **
 
 Google Meet : https://meet.google.com/wxi-izvi-eer
+
 Resources   : https://drive.google.com/drive/folders/1j9D8izvEbFspF4zu1gfxq_utKOH9_25y?usp=sharing   
 
 ## OWASP Vellore Chapter - webinar - OCT 18, 2020
