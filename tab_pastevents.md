@@ -11,7 +11,20 @@ tags: OWASP Vellore Chapter India
 ## Past Events
 
 ```Stay in touch with us to get updates about upcoming meetings!!!```
+
 <hr>
+
+## OWASP Vellore Chapter - Webinar - July 09, 2021
+
+**Agenda**
+
+ 11:00 A.M – 12.45 P.M =>   Enum Assets for Bug Bounty 
+
+**Venue & Resource **
+
+Google Meet : https://meet.google.com/wxi-izvi-eer
+Resources   : https://drive.google.com/drive/folders/1j9D8izvEbFspF4zu1gfxq_utKOH9_25y?usp=sharing   
+
 ## OWASP Vellore Chapter - webinar - OCT 18, 2020
 
 **Agenda**
