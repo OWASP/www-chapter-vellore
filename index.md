@@ -44,6 +44,9 @@ Would you like to speak on the upcoming OWASP Vellore Webinar? [Contact Us](mail
 ## Local News
 
 ### Upcoming Meeting
+{% include chapter_events.html group=page.meetup-group %}
+
+[Join Meetup](https://www.meetup.com/OWASP-Vellore-Chapter/)
 
 - Stay tuned for updates
 
