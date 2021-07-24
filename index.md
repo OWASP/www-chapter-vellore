@@ -11,6 +11,8 @@ postal-code:
 ---
 
 ## Welcome
+<img src="assets/images/anniversary.png" alt="anniversary.png"/>
+
 
 <img src="assets/images/unnamed.png"/>
 
