@@ -10,7 +10,8 @@ tags: OWASP Vellore Chapter India
 
 ## Past Events
 
-```Stay in touch with us to get updates about upcoming meetings!!!```
+```Stay in touch with us to get updates about upcoming meetings!!! ```
+
 
 <hr>
 
@@ -21,7 +22,7 @@ tags: OWASP Vellore Chapter India
 04:00 P.M – 05.45 P.M =>   Cloud Pentesting
 ```
 
-**Venue & Resource **
+**Venue & Resource**
 
 ```
 Google Meet : https://meet.google.com/fij-gjuf-hzc
@@ -37,7 +38,7 @@ Resources   : https://bit.ly/owaspvellorecp
 ```
  11:00 A.M – 12.45 P.M =>   Enum Assets for Bug Bounty 
 ```
-**Venue & Resource **
+**Venue & Resource**
 ```
 Google Meet : https://meet.google.com/wxi-izvi-eer
 
