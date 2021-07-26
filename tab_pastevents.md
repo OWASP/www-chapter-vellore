@@ -14,39 +14,60 @@ tags: OWASP Vellore Chapter India
 
 <hr>
 
-## OWASP Vellore Chapter - Webinar - July 09, 2021
+## OWASP Vellore Chapter - webinar - July 24, 2021
 
 **Agenda**
-
- 11:00 A.M – 12.45 P.M =>   Enum Assets for Bug Bounty 
+```
+04:00 P.M – 05.45 P.M =>   Cloud Pentesting
+```
 
 **Venue & Resource **
 
+```
+Google Meet : https://meet.google.com/fij-gjuf-hzc
+
+Resources   : https://bit.ly/owaspvellorecp
+```
+
+<hr>
+
+## OWASP Vellore Chapter - Webinar - July 09, 2021
+
+**Agenda**
+```
+ 11:00 A.M – 12.45 P.M =>   Enum Assets for Bug Bounty 
+```
+**Venue & Resource **
+```
 Google Meet : https://meet.google.com/wxi-izvi-eer
 
-Resources   : https://drive.google.com/drive/folders/1j9D8izvEbFspF4zu1gfxq_utKOH9_25y?usp=sharing   
+Resources   : https://bit.ly/owaspvelloreebb  
+```
+<hr>
 
 ## OWASP Vellore Chapter - webinar - OCT 18, 2020
 
 **Agenda**
-
+```
  11:00 A.M – 12.00 P.M =>   Linux Forensics 
-
+```
 
 **Venue**
 
-Zoho meet 
+Zoho Meet 
+
+<hr>
 
 ## OWASP Vellore Chapter - webinar - SEP 1, 2020
 
 **Agenda**
-
+```
  11:00 A.M – 12.00 P.M =>  introduction to Digital Forensics 
  12:00 P.M – 1.00 P.M =>  Perspective of Laws in Digital Forensics  
-
+```
 **Venue**
 
-Zoho meet - https://meeting.zoho.com/meeting/join?key=1069021307
+Zoho Meet
 
 
 <hr>
@@ -54,23 +75,23 @@ Zoho meet - https://meeting.zoho.com/meeting/join?key=1069021307
 ## OWASP Vellore Chapter - webinar - Aug 23, 2020
 
 **Agenda**
-
+```
  09:00a.m – 12.00a.m => Cybercrime forensics and Investigation 
-
+```
 
 **Venue**
 
-Zoho meet - https://meeting.zoho.com/meeting/join?key=1069021307
+Zoho Meet
 
 
 <hr>
 ## OWASP Vellore Chapter - webinar - May 29, 2020
 
 **Agenda**
-
+```
  09:00a.m – 11.00a.m => Art of Exploit Development
  11:00a.m – 01.00p.m => ROP Attacks
-
+```
 
 **Venue**
 
