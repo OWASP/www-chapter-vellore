@@ -14,13 +14,8 @@ region: Middle East
 
 ## Chapter Supporters
 
-Some of the organizations supporting OWASP Vellore chapter are below:
 
 
-[Twintechsolutions](http://twintechsolutions.in)
-[RazzSecurity](http://Razzsecurity.com)
-For more information on how to support OWASP VELLORE chapter in helping
-organize free and open security meets contact the chapter leader
 
 ## Local News
 
